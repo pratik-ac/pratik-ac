@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing a new AI-based project<br>👯 I’m looking to collaborate  on open-source projects<br>🤝 I’m looking for help with integrating different APIs<br>🌱 I’m currently learning web-dev and deep learning<br>💬 Ask me about nothing<br>⚡ Fun fact Bananas are berries, but strawberries aren't!
+I’m currently working on nothing
 
 
 ## 🌐 Socials:
